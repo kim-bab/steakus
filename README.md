@@ -1,6 +1,6 @@
 # steakus
-STEAK US 홈페이지 리뉴얼
-<a href="https://kim-bab.github.io/steakus/main.html">링크</a>
+STEAK US 홈페이지 리뉴얼<br>
+<a href="https://kim-bab.github.io/steakus/main.html">링크 🚀</a>
 
 - 모바일, 테블릿, pc 반응형으로 제작
 - swiper.js 라이브러리를 사용한 스와이프 슬라이더
